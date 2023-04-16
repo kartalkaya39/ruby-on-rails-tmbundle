@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
