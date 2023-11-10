@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
