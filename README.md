@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Improve Docs Modes tables (#8266)
