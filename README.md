@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
